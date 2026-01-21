@@ -90,10 +90,6 @@ I love building scalable products using **JavaScript, React, Node.js, MongoDB**,
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabir400&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kabir400&theme=tokyonight" height="165"/>
-</p>
-
 ---
 
 ## 📫 Connect With Me
