@@ -64,22 +64,12 @@ I love building scalable products using **JavaScript, React, Node.js, MongoDB**,
 ## 💼 Experience
 
 ### 🏢 Frontend Developer — WhatBytes (Apr 2025 – Dec 2025)
-✅ Built responsive & dynamic UI using **React.js** and modern JS  
+✅ Built responsive, dynamic, and **amazing UI** using **React.js** and modern JavaScript  
+✅ Worked on **API integration** to connect frontend with backend services smoothly  
+✅ Implemented **WebSocket / real-time features** on the frontend for instant updates  
 ✅ Delivered pixel-perfect UI + optimized state management  
-✅ Improved performance via component architecture & code optimization  
-✅ Worked with tools like **Webpack, Babel, npm** for scalable production builds  
-
----
-
-## 🚀 Featured Projects
-
-### ✅ FormBot (Form Builder Platform)
-🔹 Tech: **React.js • Express.js • MongoDB • Vite**  
-- Dual role system: creators + fillers  
-- Permission system (edit/view access for collaborators)  
-- Light/Dark mode + real-time response tracking dashboard  
-🔗 GitHub: https://github.com/Kabir400/FormBot  
-🌐 Live: https://form-bot-green.vercel.app
+✅ Attended **client meetings**, understood requirements, and provided updates & solutions based on feedback  
+✅ Collaborated with teams to ensure smooth delivery and user-friendly experience  
 
 ---
 
